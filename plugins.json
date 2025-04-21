@@ -1,8 +1,5 @@
 [
-  {
-    "name": "Sample Plugin",
-    "entry": "./plugins/sample-plugin/plugin.js"
-  },
+  
   {
     "name": "dilhara_plugin",
     "entry": "./dilhara_plugins/dilhara_plugin.js"
