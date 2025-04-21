@@ -5,6 +5,6 @@
   },
   {
     "name": "Induwara_plugins",
-    "entry": "./Induwarad_plugins/Induwara_plugins.js"
+    "entry": "./plugins/Induwarad_plugins/Induwara_plugins.js"
   }
 ]
