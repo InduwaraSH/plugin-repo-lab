@@ -1,4 +1,4 @@
 module.exports.run = () => {
-    return "Hello from Dilhara!";
+    return "Hello from Induwara!";
   };
   

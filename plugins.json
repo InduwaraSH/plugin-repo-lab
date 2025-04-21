@@ -2,6 +2,6 @@
   
   {
     "name": "dilhara_plugin",
-    "entry": "./dilhara_plugins/dilhara_plugin.js"
+    "entry": "./plugins/dilhara_plugins/dilhara_plugins.js"
   }
 ]
